@@ -5,7 +5,7 @@ array_plus_two = array.collect { |value| value+2 }
 p array
 p array_plus_two
 
-#LS SOLUTION
+
 puts "\nLS SOLUTION"
 arr = [1, 2, 3, 4, 5]
 new_arr = []
